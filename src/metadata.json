@@ -1,0 +1,5 @@
+{
+  "name": "Pump Manager",
+  "description": "A dashboard to monitor sales data for petrol pump attendants, showing petrol volume, diesel volume, cash collected, and total transactions for each individual.",
+  "requestFramePermissions": []
+}
